@@ -20,7 +20,7 @@
 - A passionate Self-taught Front-end and Back-end developer
 - Working on MERN Tech Stack
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1Y3VQxg7HH8RI2xkaWqHvt2oJcqaNJzNw/view?usp=sharing)
 
 <br><br>
 
