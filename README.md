@@ -46,6 +46,9 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://img.shields.io/badge/React%20-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white)
+   ![Express.js](https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge)
+   ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
 
@@ -74,9 +77,9 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<a href="https://github.com/harshshukla1609/">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshshukla1609&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshshukla1609&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="harshshukla1609"/>
 
 </a>
 </div>
