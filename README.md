@@ -105,17 +105,16 @@
 </a>
 </li>
 <br>
-<li>
-<a href="https://auth.geeksforgeeks.org/user/harshshukla9972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshshukla9972" height="30" width="40" /></a>
-</li>
-<br>
 
 <li>
 <a href="mailto:harshshukla99.72@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  harshshukla99.72-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+<br>
+<li>
+<a href="https://auth.geeksforgeeks.org/user/harshshukla9972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshshukla9972" height="30" width="40" /></a>
+</li>
 </ul>
 </div>
 
