@@ -21,7 +21,7 @@
 - Working on MERN Tech Stack
 - Learning Competetive Programming
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1Y3VQxg7HH8RI2xkaWqHvt2oJcqaNJzNw/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1Y3VQxg7HHRI2xkaWqHvt2oJcqaNJzNw/view?usp=sharing)
 
 <br><br>
 
